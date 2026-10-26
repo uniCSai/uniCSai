@@ -1,3 +1,4 @@
+![Header Banner](./banner.png)
 # Hi there, I'm Paul.
 
 **CS Student @ University of Toronto Scarborough (UTSC)**  
