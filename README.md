@@ -1,8 +1,7 @@
-# Hi there, I'm Paul 👋
+# Hi there, I'm Paul.
 
 **CS Student @ University of Toronto Scarborough (UTSC)**  
-Currently learning **Python** and mastering **Git & GitHub** workflows  
-Working in **VS Code** on macOS  
+Currently learning **Python** and mastering **Git & GitHub** workflows
 
 ---
 
